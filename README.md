@@ -1,14 +1,13 @@
-# Terminal Clock
+# Shell-Script-Repo
 
-This program is created using Shell Script . The clock Shows the live time with a fantastic design .
-
+A collection of shell script program . Shell Script programming collection . Bunch of shell script program .
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Souvik2376/Terminal-Clock.git
+  git clone https://github.com/Souvik2376/Shell-Script-Repo.git
 ```
 
 Go to the project directory
